@@ -1,1 +1,1 @@
-# smart-parking-system
+# Thesis Project: Smart Parking System
